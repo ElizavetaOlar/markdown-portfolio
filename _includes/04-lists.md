@@ -1,4 +1,4 @@
-:heart:
-:smiley:
-:sparkling_heart:
-:horse:
+- :heart:
+* :smiley:
+1. :sparkling_heart:
+2. :horse:
